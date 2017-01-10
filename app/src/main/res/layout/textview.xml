@@ -14,6 +14,6 @@
         android:scrollHorizontally="true"
         android:focusableInTouchMode="true"
         android:singleLine="true"
-        android:text="我不知道你有多爱我卡塞进风口浪尖上的浪费家里看到飞机螺丝钉棵解放了打开解放第四发地方"
+        android:text="这个是listView中的item文字的跑马灯效果，通过自定义TextView来实现"
          />
 </LinearLayout>
