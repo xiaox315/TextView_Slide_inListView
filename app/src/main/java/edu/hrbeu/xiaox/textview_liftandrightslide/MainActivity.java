@@ -23,7 +23,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.inject(this);
-
         final myAdapter myAdapter =new myAdapter(MainActivity.this);
         listView.setAdapter(myAdapter);
 
