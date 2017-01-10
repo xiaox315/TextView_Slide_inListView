@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <edu.hrbeu.xiaox.textview_liftandrightslide.MyTextView
+        android:id="@+id/textview1"
+        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:gravity="center_horizontal"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:ellipsize="marquee"
+        android:scrollHorizontally="true"
+        android:focusableInTouchMode="true"
+        android:singleLine="true"
+        android:text="我不知道你有多爱我卡塞进风口浪尖上的浪费家里看到飞机螺丝钉棵解放了打开解放第四发地方"
+         />
+</LinearLayout>
